@@ -1,4 +1,4 @@
 .vercel
 .vscode
-.gitignore
-node_modules
+./gitignore
+./node_modules
